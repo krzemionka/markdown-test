@@ -10,9 +10,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <!-- Here comes the table of content -->
 
 Table of content
-- [links  and images](#links-and-images)
+- [My exercise in Markdown](#my-exercise-in-markdown)
+- [links and images](#links-and-images)
   - [links](#links)
   - [images](#images)
+
+
+
 
 <!-- Example of paragraph of text with line break -->
 
@@ -73,4 +77,10 @@ column | another column | last column
 ------ | -------------- | ------------
 text | another text | some more text
 next row text | something | and sth else
-<!-- Paragraph after table -->
+
+the table has ended but I need to add an empty line
+<!-- Paragraph after table -->- [My exercise in Markdown](#my-exercise-in-markdown)
+- [My exercise in Markdown](#my-exercise-in-markdown)
+- [links and images](#links-and-images)
+  - [links](#links)
+  - [images](#images)
