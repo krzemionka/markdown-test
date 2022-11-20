@@ -22,17 +22,31 @@ Lorem ipsum dolor **sit amet**, consectetur adipiscing elit, sed do __eiusmod te
 
 Lorem ipsum *dolor sit* amet, consectetur adipiscing elit, sed do _eiusmod tempor_ incididunt ut labore et dolore magna aliqua. 
 
-consectetur adipiscing elit, sed do _eiusmod tempor_ incididunt ut labore et dolore ~~magna aliqua~~. 
 
 <!-- Example of strikethrough -->
+consectetur adipiscing elit, sed do _eiusmod tempor_ incididunt ut labore et dolore ~~magna aliqua~~. 
 
 <!-- Example of headers -->
 
+# links and images
+
+## links 
+
+
 <!-- Example of external link -->
+
+[webpage on onet](https://www.onet.pl/)
 
 <!-- Example of link to another file -->
 
+[additional information](new_file.md)
+
 <!-- Example of an image -->
+## images
+![pies](./pies.jpg "the dog")
+
+<!-- Example of an image from local file -->
+![picsum](https://picsum.photos/seed/picsum/200/300 "Good")
 
 <!-- Example of an image with hover text -->
 
