@@ -9,6 +9,11 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 <!-- Here comes the table of content -->
 
+Table of content
+- [links  and images](#links-and-images)
+  - [links](#links)
+  - [images](#images)
+
 <!-- Example of paragraph of text with line break -->
 
 <!-- Example of another paragraph -->
@@ -64,4 +69,8 @@ consectetur adipiscing elit, sed do _eiusmod tempor_ incididunt ut labore et dol
 
 <!-- Example of table -->
 
+column | another column | last column
+------ | -------------- | ------------
+text | another text | some more text
+next row text | something | and sth else
 <!-- Paragraph after table -->
