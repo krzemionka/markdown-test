@@ -1,5 +1,5 @@
 <!-- Example of title -->
-My exercise in Markdown
+My exercise in Markdown<!-- omit in toc-->
 ============================
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,   
 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
