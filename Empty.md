@@ -20,7 +20,11 @@ Lorem ipsum dolor **sit amet**, consectetur adipiscing elit, sed do __eiusmod te
 
 <!-- Example of italic  -->
 
-Lorem ipsum *dolor sit* amet, consectetur adipiscing elit, sed do _eiusmod tempor_ incididunt ut labore et dolore ~~magna aliqua~~. 
+Lorem ipsum *dolor sit* amet, consectetur adipiscing elit, sed do _eiusmod tempor_ incididunt ut labore et dolore magna aliqua. 
+
+consectetur adipiscing elit, sed do _eiusmod tempor_ incididunt ut labore et dolore ~~magna aliqua~~. 
+
+<!-- Example of strikethrough -->
 
 <!-- Example of headers -->
 
